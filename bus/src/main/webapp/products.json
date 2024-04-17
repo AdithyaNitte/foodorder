@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name":" CHICKEN BIRIYANI",
+        "price": 200,
+        "image": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" VEG BIRIYANI",
+        "price": 250,
+        "image": "2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" DUM BIRIYANI",
+        "price": 290,
+        "image": "3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" MUSHROOM BIRIYANI",
+        "price": 200,
+        "image": "4.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" CHEESE BURGER",
+        "price": 300,
+        "image": "5.jpeg"
+    },
+    {
+        "id": 6,
+        "name":" VEG BURGER",
+        "price": 200,
+        "image": "6.jpeg"
+    },
+    {
+        "id": 7,
+        "name":" CHICKEN BURGER",
+        "price": 200,
+        "image": "7.jpeg"
+    },
+    {
+        "id": 8,
+        "name":" BACON BURGER",
+        "price": 200,
+        "image": "8.jpeg"
+    },
+    
+    {
+        "id": 9,
+        "name":" SUPREME BURGER",
+        "price": 200,
+        "image": "9.jpg"
+    },
+    {
+        "id": 10,
+        "name":" PANEER BURGER",
+        "price": 200,
+        "image": "10.jpg"
+    },{
+        "id": 11,
+        "name":" MUSHROOM BURGER",
+        "price": 200,
+        "image": "11.jpg"
+    },
+    
+    {
+        "id": 12,
+        "name":" TANDOORI CHICKEN BURGER",
+        "price": 200,
+        "image": "12.jpg"
+    }
+
+]
